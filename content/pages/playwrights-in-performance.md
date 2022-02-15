@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Playwrights in Performance
 uid: 3e5b0e87-fe74-08a7-1c3e-78fb038e45aa
 ---
