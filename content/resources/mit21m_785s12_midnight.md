@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Playwrights in Performance
 parent_type: CourseSection
+parent_uid: 3e5b0e87-fe74-08a7-1c3e-78fb038e45aa
 resourcetype: Document
 title: Midnight
 uid: 2eb88559-16b7-b6e7-69a2-e52c8268ac28
