@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Playwrights in Performance
 uid: 3e5b0e87-fe74-08a7-1c3e-78fb038e45aa
 ---
@@ -23,14 +24,14 @@ Examples of Scripts Produced in 21M.785
 
 These scripts are presented courtesy of the authors and are used with permission.
 
-["When Yoshimi Gets Married" (PDF - 2.8MB)]({{< baseurl >}}/resources/mit21m_785s12_yosh_maried) by Yu Hasegawa-Johnson
+{{< resource_link 6268bb57-5ad2-31aa-3e26-722281e84de2 "\"When Yoshimi Gets Married\" (PDF - 2.8MB)" >}} by Yu Hasegawa-Johnson
 
 ["Zero-Eleven" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 4.4MB)]({{< baseurl >}}/resources/mit21m_785s12_zero_eleven) by Ivana Komarcevic
 
-["Times Change" (PDF - 1.3MB)]({{< baseurl >}}/resources/mit21m_785s12_time_change) by Carlos A. Rabell
+{{< resource_link 9c5c2bc4-97c2-766d-5929-35d443904d44 "\"Times Change\" (PDF - 1.3MB)" >}} by Carlos A. Rabell
 
-["Taking a Math Test" (PDF)]({{< baseurl >}}/resources/mit21m_785s12_math_test) by Mark Velednitsky
+{{< resource_link 6387d0fb-db22-12f6-22aa-6422b5b1d7cf "\"Taking a Math Test\" (PDF)" >}} by Mark Velednitsky
 
-["Midnight" (PDF)]({{< baseurl >}}/resources/mit21m_785s12_midnight) by Hui Ying Wen
+{{< resource_link 2eb88559-16b7-b6e7-69a2-e52c8268ac28 "\"Midnight\" (PDF)" >}} by Hui Ying Wen
 
 ["Afterlife Shoes" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 4MB)]({{< baseurl >}}/resources/mit21m_785s12_life_shoes) by Tim Wilson

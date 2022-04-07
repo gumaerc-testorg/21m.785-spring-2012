@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: 454e4505-463b-9e4f-9d84-f6506a9948e9
 ---
@@ -14,7 +15,7 @@ Lectures: 1 session / week, 3 hours / session
 Prerequisites
 -------------
 
-It is recommended that students take the course [_21M.604 Playwriting I_](/courses/21m-604-playwriting-i-spring-2005/) or receive the permission of the instructor.
+It is recommended that students take the course [_21M.604 Playwriting I_](/courses/21m-604-playwriting-i-spring-2005) or receive the permission of the instructor.
 
 Course Requirements
 -------------------
