@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section contains examples of scripts produced over the years in
+  this course, as well as information on the Playwrights in Performance workshop.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Playwrights in Performance
 uid: 3e5b0e87-fe74-08a7-1c3e-78fb038e45aa
 ---
@@ -24,14 +25,14 @@ Examples of Scripts Produced in 21M.785
 
 These scripts are presented courtesy of the authors and are used with permission.
 
-{{< resource_link 6268bb57-5ad2-31aa-3e26-722281e84de2 "\"When Yoshimi Gets Married\" (PDF - 2.8MB)" >}} by Yu Hasegawa-Johnson
+{{% resource_link 6268bb57-5ad2-31aa-3e26-722281e84de2 "\"When Yoshimi Gets Married\" (PDF - 2.8MB)" %}} by Yu Hasegawa-Johnson
 
-["Zero-Eleven" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 4.4MB)]({{< baseurl >}}/resources/mit21m_785s12_zero_eleven) by Ivana Komarcevic
+{{% resource_link "5270f566-8e19-0582-777f-0aed5b010601" "\"Zero-Eleven\" (PDF - 4.4MB)" %}} by Ivana Komarcevic
 
-{{< resource_link 9c5c2bc4-97c2-766d-5929-35d443904d44 "\"Times Change\" (PDF - 1.3MB)" >}} by Carlos A. Rabell
+{{% resource_link 9c5c2bc4-97c2-766d-5929-35d443904d44 "\"Times Change\" (PDF - 1.3MB)" %}} by Carlos A. Rabell
 
-{{< resource_link 6387d0fb-db22-12f6-22aa-6422b5b1d7cf "\"Taking a Math Test\" (PDF)" >}} by Mark Velednitsky
+{{% resource_link 6387d0fb-db22-12f6-22aa-6422b5b1d7cf "\"Taking a Math Test\" (PDF)" %}} by Mark Velednitsky
 
-{{< resource_link 2eb88559-16b7-b6e7-69a2-e52c8268ac28 "\"Midnight\" (PDF)" >}} by Hui Ying Wen
+{{% resource_link 2eb88559-16b7-b6e7-69a2-e52c8268ac28 "\"Midnight\" (PDF)" %}} by Hui Ying Wen
 
-["Afterlife Shoes" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 4MB)]({{< baseurl >}}/resources/mit21m_785s12_life_shoes) by Tim Wilson
+{{% resource_link "45403f0d-c235-8e49-a8e0-e0f347f650ae" "\"Afterlife Shoes\" (PDF - 4MB)" %}} by Tim Wilson
