@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, requirements, weekly meetings, readings and theatrical
+  performances, the final project, journals, conferences, playwrights in performance,
+  and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 454e4505-463b-9e4f-9d84-f6506a9948e9
 ---
@@ -12,7 +18,7 @@ Lectures: 1 session / week, 3 hours / session
 Prerequisites
 -------------
 
-It is recommended that students take the course [_21M.604 Playwriting I_](/courses/21m-604-playwriting-i-spring-2005/) or receive the permission of the instructor.
+It is recommended that students take the course [_21M.604 Playwriting I_](/courses/21m-604-playwriting-i-spring-2005) or receive the permission of the instructor.
 
 Course Requirements
 -------------------
