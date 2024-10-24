@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about time change.
-file: /courses/21m-785-playwrights-workshop-spring-2012/9c5c2bc497c2766d592935d443904d44_MIT21M_785S12_time_change.pdf
+file: /ol-ocw-studio-app/courses/21m-785-playwrights-workshop-spring-2012/9c5c2bc497c2766d592935d443904d44_MIT21M_785S12_time_change.pdf
 file_size: 1410940
 file_type: application/pdf
 learning_resource_types: []
