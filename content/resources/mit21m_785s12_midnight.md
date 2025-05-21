@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about midnight.
-file: /ol-ocw-studio-app/courses/21m-785-playwrights-workshop-spring-2012/2eb8855916b7b6e769a2e52c8268ac28_MIT21M_785S12_Midnight.pdf
+file: /courses/21m-785-playwrights-workshop-spring-2012/2eb8855916b7b6e769a2e52c8268ac28_MIT21M_785S12_Midnight.pdf
 file_size: 112334
 file_type: application/pdf
 learning_resource_types: []

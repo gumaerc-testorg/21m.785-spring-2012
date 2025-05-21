@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about zero eleven.
-file: /ol-ocw-studio-app/courses/21m-785-playwrights-workshop-spring-2012/5270f5668e190582777f0aed5b010601_MIT21M_785S12_Zero_eleven.pdf
+file: /courses/21m-785-playwrights-workshop-spring-2012/5270f5668e190582777f0aed5b010601_MIT21M_785S12_Zero_eleven.pdf
 file_size: 4612429
 file_type: application/pdf
 learning_resource_types: []
